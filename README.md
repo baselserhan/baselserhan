@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baselserhan
 - 👀 I’m interested in Web Development and I'm a passionate Front-End Web Developer specialized in React.js
 - 🌱 I’m currently learning MERN Stack Web Development
-- 💞️ I’m looking to collaborate on powerful community and work with special co-workers
+- 💞️ I’m looking to collaborate in a powerful community and work with special co-workers
 - 📫 How to reach me serhanbasel@gmail.com
 
 <!---
